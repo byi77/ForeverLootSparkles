@@ -16,3 +16,11 @@ if GetLocale and GetLocale() == "frFR" then
 	L["Keeps the game's loot sparkle on, even after a graphics preset turns it off. Your outline mode is left as you set it. Switching this off takes effect after restarting the game."] =
 		"Garde le scintillement du butin du jeu activé, même après qu'un préréglage graphique l'a désactivé. Votre mode de contour reste tel que vous l'avez réglé. La désactivation prend effet après avoir relancé le jeu.";
 end
+
+if GetLocale and GetLocale() == "deDE" then
+	L["|cffff8000Forever Loot Sparkles:|r restart the game to remove the sparkles. /reload is not enough."] =
+		"|cffff8000Forever Loot Sparkles:|r Starte das Spiel neu, um das Glitzern zu entfernen. /reload reicht nicht.";
+	L["Show quest item sparkles"] = "Glitzern an Questgegenständen anzeigen";
+	L["Keeps the game's loot sparkle on, even after a graphics preset turns it off. Your outline mode is left as you set it. Switching this off takes effect after restarting the game."] =
+		"Hält das Beute-Glitzern des Spiels an, auch wenn eine Grafikvoreinstellung es abschaltet. Dein Umrissmodus bleibt, wie du ihn eingestellt hast. Ausschalten wirkt erst nach einem Neustart des Spiels.";
+end

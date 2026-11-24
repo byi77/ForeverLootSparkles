@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- German translation (deDE): the option, its tooltip, the restart notice in chat and the addon list description.
+
 ## 2.0.0
 
 - The addon is back to what it started as: it only keeps the game's loot sparkle on quest items switched on.

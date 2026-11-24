@@ -2,6 +2,7 @@
 ## Title: Forever Loot Sparkles
 ## Notes: Always shows the sparkle effect on lootable quest items. Switches the loot sparkle back on at login and whenever a graphics change resets it. Options under Options > AddOns.
 ## Notes-frFR: Affiche toujours le scintillement sur les objets de quête à ramasser. Réactive le scintillement du butin à la connexion et chaque fois qu'un changement de réglages graphiques le réinitialise. Réglages dans Options > AddOns.
+## Notes-deDE: Zeigt das Glitzern an plünderbaren Questgegenständen immer an. Schaltet das Beute-Glitzern beim Einloggen und nach jeder Grafikänderung, die es zurücksetzt, wieder ein. Optionen unter Optionen > AddOns.
 ## Author: Ashtar Senior
 #@debug@
 ## Version: dev
